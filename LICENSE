@@ -1,0 +1,13 @@
+
+## Step 5: Initial Commit and Push
+
+```bash
+# Add all files
+git add .
+
+# Commit with a meaningful message
+git commit -m "Initial commit: Full stack raffle marketplace with backend and React Native frontend"
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
